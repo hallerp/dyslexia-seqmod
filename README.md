@@ -19,4 +19,4 @@ $ pip install datasets transformers
 
 ## Citation
 
-Tba
+Patrick Haller, Andreas Säuberli, Sarah Kiener, Jinger Pan, Ming Yan, and Lena Jäger. 2022. Eye-tracking based classification of Mandarin Chinese readers with and without dyslexia using neural sequence models. In Proceedings of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022), pages 111–118, Abu Dhabi, United Arab Emirates (Virtual). Association for Computational Linguistics.
