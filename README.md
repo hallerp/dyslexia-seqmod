@@ -1,6 +1,6 @@
 Eye-tracking based classification of Mandarin Chinese readers with and without dyslexia using neural sequence models
 ====================================================================================================================
-[![paper](https://img.shields.io/static/v1?label=paper&message=download%20link&color=brightgreen)](https://arxiv.org/abs/2210.09819)
+[![paper](https://img.shields.io/static/v1?label=paper&message=download%20link&color=brightgreen)](https://aclanthology.org/2022.tsar-1.10/)
 
 This repository contains the sequence and baseline models used in Eye-tracking based classification of Mandarin Chinese readers with and without dyslexia using neural sequence models.
 
